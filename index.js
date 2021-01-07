@@ -48,4 +48,4 @@ app.get('/about.html', function (req, res) {
 app.use(express.static(path.join(__dirname, 'public')));
 
 
-app.listen(PORT, () => console.log("I got next!"));
+app.listen(PORT, () => console.log("Author of Constance Chronicles."));
