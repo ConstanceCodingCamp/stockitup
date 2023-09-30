@@ -3,7 +3,6 @@ current phase "stock it up" list the business owners I have been networking, coa
 mentoring over the past ten years. These start-up/black-owned/minority business owner are the many 
 reason I will never stop learning and being innovative. 
 
-This app is live and under continued deployment and development @ www.stockandchange.heroku.com
 
 Updates to come: 
 
