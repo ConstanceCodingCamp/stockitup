@@ -1,7 +1,7 @@
-This app is one side to the start of a community business project I have been developing for three years. This 
+This app is one side to the start of a community business project I have been developing. This 
 current phase "stock it up" list the business owners I have been networking, coaching, collaborating with and 
 mentoring over the past ten years. These start-up/black-owned/minority business owner are the many 
-reason I will never stop learning and being innovative. 
+reason I will never stop learning and being innovative. *Stock API, will be updated with full app updates listed below.
 
 
 Updates to come: 
